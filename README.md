@@ -19,7 +19,7 @@ Code Backup Intentionally 🍃</br>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <p align="left">
-<a href="https://github.com/okon0miyaki">
+<a href="https://github.com/Juawir/">
   <img height="163em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Juawir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="163em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Juawir&layout=compact&langs_count=12&theme=algolia"/>
 </a>
