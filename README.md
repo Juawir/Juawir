@@ -22,7 +22,7 @@ Code Backup Intentionally 🍃</br>
 </p>
 
 ### Contact
-- [LinkedIn](https://www.instagram.com/even.sir/)
+- [LinkedIn](https://www.instagram.com/iende22/)
 - [Instagram](https://www.linkedin.com/in/steven-gerrard-53aa93311/)
 
 <!--
