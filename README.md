@@ -2,11 +2,7 @@
 
 My name is **Steven Gerrard** <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="25" />
 
-Bangkit Academy 2024 Batch 2 🌠</br>
-Mobile Development Cohort
 
-Currently learning on Kotlin
- 
 Code Backup Intentionally 🍃</br>
 
 ## Language
